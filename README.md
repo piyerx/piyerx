@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyerx
+- 👋 Hi, I’m @piyerx from India 
 - 👀 I’m interested in Programming stuff and building interesting projects!
 - 🌱 I’m currently learning C++ and already have knowledge of JAVA and C.
 - 💞️ I’m looking to collaborate on currently nothing, since I am new here.
