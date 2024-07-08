@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @piyerx from India 
+- 👋 Hi, I’m Piyush from India.
 - 👀 I’m interested in Programming stuff and building interesting projects!
 - 🌱 I’m currently learning C++ and already have knowledge of JAVA and C.
-- 💞️ I’m looking to collaborate on currently nothing, since I am new here.
-- 📫 How to reach me, just text me here (https://t.me/PiyerX29)
+- 📫 How to reach me, just text me on Discord (@piyerx or PiyerX#9491)
 
 <!---
 piyerx/piyerx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
