@@ -3,8 +3,10 @@ I am **Piyush**, a tech geek who loves developing software.<br>I mainly focus on
 *To reach me, just text me on Discord (@piyerx or PiyerX#9491)*
 
 
-## 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+ 
+<p align="left">
+  <img src="https://github.com/piyerx/piyerx/blob/main/res/github%20quote.png?raw=true" alt="GitHub Quote" width="300" height="300">
+</p>
 
 
 
