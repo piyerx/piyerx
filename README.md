@@ -54,9 +54,9 @@ On Discord I’m @piyerx, always there!
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyerx&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=piyerx&theme=apprentice&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyerx&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyerx&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=piyerx&theme=shadow&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyerx&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <br>
 <h4 align="center">💰 Want to support my work?</h4>
