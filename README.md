@@ -1,4 +1,6 @@
-<h2 align="center">👋🏻 Welcome to my profile!</h2>
+<p align ="center">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Piyush%20Verma&fontSize=0&textBg=false&section=header&desc=I%20love%20building%20things!&descAlignY=48&fontAlignY=33&reversal=true&animation=twinkling&descAlign=64" />
+</p>
 
 <h3 align="center">
 I'm <b>Piyush</b> , a techie with code in my flair, <br>
@@ -66,5 +68,9 @@ On Discord I’m @piyerx, always there!
   <a href="https://paypal.me/paypal.me/piyush2905">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
+</p>
+
+<p align ="center">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontSize=-1&textBg=false&section=footer&desc=Thanks%20for%20stopping%20by!&descAlignY=75&fontAlignY=33&reversal=true&animation=fadeIn&descAlign=50" />
 </p>
 
