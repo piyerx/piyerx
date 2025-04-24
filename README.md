@@ -1,6 +1,6 @@
 <h2 align="center">👋🏻 Welcome to my profile!</h2>
 
-<p align="center">
+<h3 align="center">
 I'm <b>Piyush</b> , a techie with code in my flair, <br>
 Building apps and software with passionate care. <br>
 From <b>Android</b> dreams I love to explore, <br>
@@ -9,7 +9,8 @@ I aim to launch apps you’ll find in the store, <br>
 With features you’ll love and always adore. <br>
 For a <b>quick chat</b>, just drop by my lair— <br>
 On Discord I’m @piyerx, always there!
-</p>
+</h3>
+
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyerx&style=flat&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="PiyerX Profile Views Badge" />
@@ -67,4 +68,3 @@ On Discord I’m @piyerx, always there!
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
