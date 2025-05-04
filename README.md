@@ -2,16 +2,25 @@
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Piyush%20Verma&fontSize=0&textBg=false&section=header&desc=I%20love%20building%20things!&descAlignY=48&fontAlignY=33&reversal=true&animation=twinkling&descAlign=64" />
 </p>
 
-<h3 align="center">
-I'm <b>Piyush</b> , a techie with code in my flair, <br>
-Building apps and software with passionate care. <br>
-From <b>Android</b> dreams I love to explore, <br>
-While <b>Web</b> and <b>Web3</b> I’m learning much more. <br><br>
-I aim to launch apps you’ll find in the store, <br>
-With features you’ll love and always adore. <br>
-For a <b>quick chat</b>, just drop by my lair— <br>
-On Discord I’m @piyerx, always there!
-</h3>
+<p align="center">
+  I'm <b>Piyush</b>, a passionate developer building creative digital solutions.<br>
+  I mainly focus on <b>Android development</b> (Kotlin, Java),<br>
+  and I'm currently exploring <b>Web</b> and <b>Web3 technologies</b>.<br>
+  I love turning ideas into practical apps.
+</p>
+
+<p align="center">
+  Feel free to contact me on Discord: <b>@piyerx</b>.
+</p>
+
+<br>
+
+<p align="center">
+  Also, don't miss my latest repo: 
+  <a href="https://github.com/piyerx/Github-101"><b>Github-101</b></a> <br>
+  <i>A beginner-friendly GitHub guide with key tips and commands.</i>
+</p>
+
 
 <br>
 <p align="center">
