@@ -28,7 +28,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/piyerx/piyerx/blob/main/res/github%20quote.png?raw=true" alt="GitHub Quote" width="300" height="300" />
+  <img src="https://github.com/piyerx/piyerx/blob/main/res/PiyGithub_Quote.png?raw=true" alt="GitHub Quote"/>
 </p>
 
 <h2 align="center">🌐 Socials:</h2>
@@ -40,7 +40,7 @@
   <a href="https://twitch.tv/thePiyerX">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" />
   </a>
-  <a href="mailto:piyushverma2905@gmail.com">
+  <a href="mailto:piyushverma.rprcg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
