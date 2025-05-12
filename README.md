@@ -28,7 +28,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/piyerx/piyerx/blob/main/res/PiyGithub_Quote.png?raw=true" alt="GitHub Quote"/>
+  <img src="https://github.com/piyerx/piyerx/blob/main/res/PiyGithub_Quote_New.png?raw=true" alt="GitHub Quote"/>
 </p>
 
 <h2 align="center">🌐 Socials:</h2>
