@@ -1,8 +1,7 @@
 <p align ="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Piyush%20Verma&fontSize=0&textBg=false&section=header&desc=I%20love%20building%20things!&descAlignY=48&fontAlignY=33&reversal=true&animation=twinkling&descAlign=64" />
+  <!-- <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Piyush%20Verma&fontSize=0&textBg=false&section=header&desc=I%20love%20building%20things!&descAlignY=48&fontAlignY=33&reversal=true&animation=twinkling&descAlign=64" /> -->
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=PiyerX&textBg=false&animation=fadeIn&fontSize=34&fontAlignY=21&desc=Flutter%20|%20Cloud%20|%20Web3&descAlignY=41&reversal=false&section=header">
 </p>
-
----
 
 <div align="center">
   
@@ -22,15 +21,13 @@ My passion lies in building applications that make a tangible impact.<br>I speci
 
 </div>
 
----
-
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyerx&style=flat&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="PiyerX Profile Views Badge" />
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/piyerx/piyerx/blob/main/res/PiyGithub_Quote_New.png?raw=true" alt="GitHub Quote"/>
+  <img src="https://github.com/piyerx/piyerx/blob/main/res/PiyGithub_Quote_New.png?raw=true" alt="GitHub Quote" width=500px/>
 </p>
 
 <h2 align="center">🌐 Socials:</h2>
@@ -75,6 +72,6 @@ My passion lies in building applications that make a tangible impact.<br>I speci
 <br>
 
 <p align ="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontSize=-1&textBg=false&section=footer&desc=Thanks%20for%20stopping%20by!&descAlignY=75&fontAlignY=33&reversal=true&animation=fadeIn&descAlign=50" />
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontSize=-1&textBg=false&section=footer&desc=Thanks%20for%20stopping%20by!&descAlignY=80&fontAlignY=33&reversal=true&animation=fadeIn&descAlign=50" />
 </p>
 
