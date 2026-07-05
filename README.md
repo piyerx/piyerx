@@ -8,66 +8,73 @@ BTech Undergrad | Software Development Engineer | Cloud & Backend Specialist
 
 
 ## ■ About Me
-I am a Computer Science engineer focused on building robust cloud-native systems and backend infrastructure. With professional experience as a mobile developer and a deep competency in **Google Cloud Platform (GCP)**, I build software that is both scalable and efficient.
+I am a Computer Science engineering student focused on building highly scalable, data-driven systems and robust backend infrastructure. With professional experience as a Flutter developer and deep competency in Google Cloud Platform (GCP), I build software that solves complex problems without compromising performance.
 
 **Technical Highlights:**
-* **Core Engineering:** Strong command of **Java** and **C++** with a focus on Data Structures & Algorithms. I have explored low-level computing by engineering a custom **LC-3 Virtual Machine**.
-* **Cloud & AI:** Proficient in architecting solutions on GCP and integrating Generative AI (LLMs) into production workflows.
-* **Innovation & Speed:** Proven ability to ship award-winning code, recognized as a **4x Hackathon Winner** (including *HackHazards* and *HackASol*) for projects in Web3 and Fintech.
+* **AI & Data Mining:** Proven ability to engineer predictive time-series pipelines and integrate Generative AI (LLMs) into production workflows, recently placing Top 5 Nationally at the UIDAI Data Hackathon.
+* **Core Engineering:** Strong command of Java, Python, and C++ with a strict focus on Data Structures & Algorithms. I possess a deep understanding of low-level computing, demonstrated by engineering a custom LC-3 Virtual Machine in C.
+* **Systems Architecture:** 4x National Hackathon Winner. Experienced in designing distributed architectures, efficient caching layers (Redis), and lightweight orchestration APIs (Hono).
 
-I am looking to bring this technical rigor to a Cloud Infrastructure or Backend SDE role at a product-focused company that values problem-solving and architectural depth.
+I am looking to bring this technical rigor to a Software Engineering Internship at a product-focused company that values problem-solving and architectural depth.
 
 ---
 
 ## ■ Technical Proficiency
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-* **Languages:** Java (Proficient), C++, C, Python, Solidity, Dart
-* **Backend & Cloud:** Google Cloud Platform (GCP), Azure Fundamentals, Node.js, Docker
-* **Core:** Data Structures & Algorithms, Object-Oriented Programming (OOP), System Architecture
-* **Tools:** Git/GitHub, Linux (Shell Scripting), Postman, Figma
+* **Languages:** Java (Proficient), Python, C++, C, TypeScript, JavaScript, Dart, Solidity, SQL
+* **Frameworks & AI:** PyTorch, React, Node.js, Hono, Flutter, Scikit-Learn
+* **Cloud & Databases:** Google Cloud Platform (GCP), Redis, MongoDB, Docker, Azure
+* **Core Concepts:** Data Structures & Algorithms, Distributed Systems, System Architecture, OOP
+* **Tools:** Git/GitHub, Linux (Shell Scripting), Postman
 
 ---
 
 ## ■ Engineering & Projects
 
-### LC-3 Virtual Machine | [Link to Repo](https://github.com/Project-Synero/vm-lc3)
+### MBU Gap Analyzer | [Repo](https://github.com/piyerx/UIDAI-Data-Hackathon-2026)
+*Top 5 National Finalist - UIDAI Data Hackathon 2026*
+A predictive AI pipeline to map service deserts and forecast compliance demand.
+* **The Tech:** Python, PyTorch, Scikit-Learn, Pandas, Folium
+* **Key Challenge:** Ingesting and processing 5M+ records across 1,070 districts, and optimizing a time-series LSTM model to reduce forecasting error.
+* **Outcome:** Achieved a 1.7% RMSE reduction over baseline models and successfully mapped high-risk zones using K-Means clustering and SHAP explainability.
+
+### Reddit Mod Copilot | [Repo](https://github.com/piyerx/Reddit-Copilot)
+*Reddit Mod Tools Hackathon '26*
+A full-stack, AI-powered moderation assistant and unified queue orchestration API.
+* **The Tech:** React 19, Hono, TypeScript, Gemini 1.5 Flash, Redis
+* **Key Challenge:** Managing LLM latency and building robust fallback heuristics for real-time, high-volume moderation queues.
+* **Outcome:** Architected a highly performant, cache-efficient API using Redis and Set-based deduplication to instantly surface automated decisions and historical precedent.
+
+### LC-3 Virtual Machine | [Repo](https://github.com/Project-Synero/vm-lc3)
+*Systems Architecture Simulator*
 A low-level simulation of the LC-3 computer architecture written in C.
-* **The Tech:** C, Makefile, Unix Systems
-* **Key Challenge:** Implemented the full instruction cycle (Fetch, Decode, Execute) and memory-mapped I/O, requiring deep management of bitwise operations and registers.
-* **Outcome:** Successfully simulates trap routines and opcode processing, demonstrating systems-level programming capability.
-
-### Adhikar (Decentralized Land Registry) | [Link to Repo](https://github.com/piyerx/hashmap_hackasol25)
-*Winner - Web3 Track at HackASol 4.0* <br>
-A blockchain-based registry system to secure tribal land rights using immutable records.
-* **The Tech:** Solidity, React, Node.js, IPFS
-* **Key Challenge:** Engineered a "5-of-5" multi-signature consensus model to prevent unauthorized land transfers, ensuring unanimous community validation.
-* **Outcome:** Deployed on Sepolia Testnet with a verified 500+ user capacity architecture.
-
-### Nexora (Web3 Platformer) | [Link to Repo](https://github.com/piyerx/nexora)
-*Top 25 - HackHazards 2025* <br>
-A 2D platformer that integrates on-chain achievement tracking.
-* **The Tech:** JavaScript, Ethers.js, Hardhat, Monad Testnet
-* **Key Challenge:** Bridging the gap between real-time game physics (60 FPS) and asynchronous blockchain transactions for achievement verification.
+* **The Tech:** C, Makefile, Unix Systems, POSIX
+* **Key Challenge:** Implementing the full instruction cycle (Fetch, Decode, Execute) and memory-mapped I/O, requiring precise management of bitwise operations, sign extension, and condition flags.
+* **Outcome:** Successfully simulates trap routines and deterministic opcode processing via a custom 64K memory array, demonstrating core systems-level programming capabilities.
 
 ---
 
-## ■ Certifications
-* **Google Cloud Computing & GenAI** (Nov 2024 | 2025)
-* **Microsoft Azure Fundamentals** (June 2024)
-* **Cisco Operating Systems** (Oct 2024)
+## ■ Achievements
+
+* 🏆 **Top 5 National Finalist** | *UIDAI Data Hackathon 2026*
+* 🥇 **Winning Project (Web3 Track)** | *HackASol 4.0*
+* 🚀 **National Qualifier** | *NASA Space Apps Challenge (2024 & 2025)*
+* ⭐ **Top 25 Team (Monad Track)** | *HackHazards 2025*
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=piyerx&style=flat&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="PiyerX Profile Views Badge" />
